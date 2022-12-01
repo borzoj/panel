@@ -5,10 +5,10 @@
   "homepage": "https://getkirby.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/getkirby/panel"
+    "url": "https://github.com/borzoj/panel"
   },
   "bugs": {
-    "url": "https://github.com/getkirby/panel/issues"
+    "url": "https://github.com/borzoj/panel/issues"
   },
   "keywords": [
     "kirby",
